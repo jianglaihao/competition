@@ -1,0 +1,2 @@
+# competition
+比赛
