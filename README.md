@@ -1,2 +1,2 @@
 # competition
-比赛
+比赛git@github.com:jianglaihao/competition.gitgit@github.com:jianglaihao/competition.git
